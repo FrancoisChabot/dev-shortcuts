@@ -5,7 +5,7 @@ up the correct glyphs is a pain.
 - [Every glyph from the `U+2500..U+257F` block, in context](#box-drawing-block)
 
 N.B. Some of these get rendered wrong in a web browser, but I promise that they are 
-the correct unicode symbols.
+the correct unicode symbols. Chrome zoomed in at 150% seems to look good.
 
 ## Patterns
 
