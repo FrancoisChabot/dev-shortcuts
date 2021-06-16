@@ -1,8 +1,10 @@
 I really like using the box drawing characters in monospace files, but looking 
-up the correct glyphs is a pain. Here they are, organized so that every glyph 
-is next to the typical context where it is used.
+up the correct glyphs is a pain.
 
-Some of these get rendered wrong in a web browser, but I promise that they are 
+- [Commonly used patterns](#patterns)
+- [Every glyph from the `U+2500..U+257F` block, in context](#box-drawing-block)
+
+N.B. Some of these get rendered wrong in a web browser, but I promise that they are 
 the correct unicode symbols.
 
 ## Patterns
@@ -78,12 +80,9 @@ the correct unicode symbols.
 ╚════╧════╧════╧════╧════╝ ┗━━━━┻━━━━┷━━━━┷━━━━┷━━━━┛
 
 ```
-## Box drawing block: `U+2500..U+257F`
-Every character from the  range is represented at least once.
+## Box drawing block 
 
-- aaa
-  - bbb
-  - ccc
+Every character from the  range is represented at least once.
 
 ### Light
 ```
