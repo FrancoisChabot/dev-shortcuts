@@ -21,8 +21,8 @@ pacakge
 ┣━ /dir_1
 ┃  ┣━ file1.ext
 ┃  ┗ file2.ext
-┗  /dir_2
-   ┗ /sub_dir
-     ┗ file.ext
+┗━ /dir_2
+   ┗━ /sub_dir
+      ┗━ file.ext
 ```
 credit: https://stackoverflow.com/a/24961998/4442671
