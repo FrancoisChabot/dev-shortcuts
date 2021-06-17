@@ -20,7 +20,7 @@ pacakge
 ┣━ file.ext
 ┣━ /dir_1
 ┃  ┣━ file1.ext
-┃  ┗ file2.ext
+┃  ┗━ file2.ext
 ┗━ /dir_2
    ┗━ /sub_dir
       ┗━ file.ext
