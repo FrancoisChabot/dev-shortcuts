@@ -1,7 +1,7 @@
 
 ### Emoji-based
 ```
-📦pacakge
+📦package
  ┣ 📂dir_1
  ┣ 📂dir_2
  ┃ ┣ 📂sub_dir
@@ -16,7 +16,7 @@ credit: https://stackoverflow.com/a/57086391/4442671
 
 ### Monospace-friendly
 ```
-pacakge
+package
 ┣━ file.ext
 ┣━ /dir_1
 ┃  ┣━ file1.ext
