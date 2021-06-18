@@ -46,3 +46,6 @@ else:
 if args.version:
     print(version.STRING, args.verbose)
     exit(0)
+    
+# Insert app code here
+
