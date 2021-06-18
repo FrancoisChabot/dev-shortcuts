@@ -41,7 +41,7 @@ if args.verbose:
 elif args.quiet:
     logging.basicConfig(level=logging.CRITICAL)
 else:
-    logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(level=logging.WARNING)
 
 if args.version:
     print(version.STRING, args.verbose)
