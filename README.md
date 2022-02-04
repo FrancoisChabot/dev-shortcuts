@@ -5,3 +5,4 @@ A collection of snippets I use to copy-paste from.
 
 - Unicode
   - [Box drawing](unicode/boxes.md)
+  - [Directory structure](unicode/directory_structure.md)
